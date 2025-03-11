@@ -1,9 +1,9 @@
 #  Towards zero-shot human-object interaction detection via vision-language integration
 ## Installation
 git clone https://github.com/xwyscut/K2HOI.git
-cd K2HOI
 
 ```
+cd K2HOI
 pip install -r requirements.txt
 ```
 
