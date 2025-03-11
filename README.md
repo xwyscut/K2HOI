@@ -1,14 +1,15 @@
 #  Towards zero-shot human-object interaction detection via vision-language integration
 ## Installation
-git clone https://github.com/xwyscut/K2HOI.git
+
 
 ```
+git clone https://github.com/xwyscut/K2HOI.git
 cd K2HOI
 pip install -r requirements.txt
 ```
 
 ## Data preparation
-This repo contains modified codes from HOICLIP, prepare the data according to [here] (https://github.com/Artanic30/HOICLIP.git)
+This repo contains modified codes from HOICLIP, prepare the data according to [here](https://github.com/Artanic30/HOICLIP.git)
 
 
 ## Pre-trained model
