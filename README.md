@@ -100,11 +100,6 @@ python -m torch.distributed.launch \
         --with_obj_clip_label \
         --use_nms_filter
 ```
-
-For the official evaluation (reported in paper), you need to covert the prediction file to a official prediction format
-following [this file](./tools/covert_annot_for_official_eval.py), and then
-follow [PPDM](https://github.com/YueLiao/PPDM) evaluation steps.
-
 ### V-COCO
 
 Firstly, you need the add the following main function to the vsrl_eval.py in data/v-coco.
